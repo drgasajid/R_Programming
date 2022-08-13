@@ -26,7 +26,7 @@ plot(x$Sepal.Length, col=brewer.pal(8,"Greens"),main="Greens 8 colors")
 plot(x$Sepal.Length, col=brewer.pal(8,"Greens"),main="Greens 8 colors")
 
 
-#plotting with ggplot2 RwithAammar-session2
+#plotting with ggplot2
 install.packages("ggplot2")
 library(ggplot2)
 help("ggplot")
